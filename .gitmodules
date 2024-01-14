@@ -1,3 +1,9 @@
 [submodule "booking"]
 	path = booking
 	url = https://github.com/NgocHai056/Booking-System
+[submodule "Inventory"]
+	path = Inventory
+	url = https://github.com/NgocHai056/Hotel-Inventory-System
+[submodule "API-Public"]
+	path = API-Public
+	url = https://github.com/NgocHai056/Hotel-API-Public-System
